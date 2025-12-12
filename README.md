@@ -85,7 +85,6 @@
 <!--END_SECTION:waka-->
 
 
-###
 
 <img src="https://raw.githubusercontent.com/Yasnylmz/Yasnylmz/output/snake.svg" alt="Snake animation" />
 
