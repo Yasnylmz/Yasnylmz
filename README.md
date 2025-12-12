@@ -78,9 +78,23 @@
 <!--END_SECTION:waka-->
 
 <div align="center">
-  <img src="https://github-readme-stats-nine-iota-18.vercel.app/api?username=Yasnylmz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-nine-iota-18.vercel.app/api/top-langs?username=Yasnylmz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+  <!-- Stats -->
+  <img 
+    src="https://github-readme-stats-nine-iota-18.vercel.app/api?username=Yasnylmz&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" 
+    height="160"
+  />
+
+  <img width="10" /> <!-- Görseller arası boşluk -->
+
+  <!-- Languages -->
+  <img 
+    src="https://github-readme-stats-nine-iota-18.vercel.app/api/top-langs?username=Yasnylmz&layout=compact&langs_count=5&theme=dracula" 
+    height="160"
+  />
+
 </div>
+
 
 
 
