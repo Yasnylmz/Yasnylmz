@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on ...<br>- 🌱 I’m currently learning Electron JS<br>- 💬 Ask me about Front End<br>- 📫 How to reach me: yasin.ylmz.work@gmail.com</p>
+<p align="left">- 🔭 I’m currently working on ...<br>- 🌱 I’m currently learning Electron JS<br>- 💬 Ask me about Java<br>- 📫 How to reach me: yasin.ylmz.work@gmail.com</p>
 
 ###
 
