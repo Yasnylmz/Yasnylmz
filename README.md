@@ -16,7 +16,20 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on ... <br>- 🌱 I’m currently learning Machine Learning JS<br>- 💬 Ask me about Java,Python<br>- 📫 How to reach me: yasin.ylmz.work@gmail.com</p>
+<p align="left"> 
+🔭 I’m currently working on:
+  
+- Improving my backend skills with Java and Python through hands-on projects
+
+🌱 I’m currently learning:
+
+- Spring Boot, RESTful APIs, and writing clean, maintainable code
+
+💬 Ask me about:
+
+- Java, Python, OOP, and getting started with backend development
+  
+ 📫 How to reach me: yasin.ylmz.work@gmail.com</p>
 
 ###
 
