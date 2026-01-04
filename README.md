@@ -77,11 +77,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 December 2025 - To: 02 January 2026
+From: 27 December 2025 - To: 03 January 2026
 
-Python     1 hr 41 mins    ██████████████████████░░░   88.26 %
-CSV        13 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Python     4 hrs 10 mins   ██████████████████████▒░░   89.29 %
+CSV        29 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
