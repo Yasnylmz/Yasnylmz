@@ -97,23 +97,8 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-<div align="center">
 
-  <!-- Stats -->
-  <img 
-    src="https://github-readme-stats-nine-iota-18.vercel.app/api?username=Yasnylmz&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" 
-    height="160"
-  />
-
-  <img width="10" /> <!-- Görseller arası boşluk -->
-
-  <!-- Languages -->
-  <img 
-    src="https://github-readme-stats-nine-iota-18.vercel.app/api/top-langs?username=Yasnylmz&layout=compact&langs_count=5&theme=dracula" 
-    height="160"
-  />
-
-</div>
+  
 
 
 
