@@ -90,12 +90,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 February 2026 - To: 25 February 2026
+From: 19 February 2026 - To: 26 February 2026
 
-HTML         21 mins               █████████████████▒░░░░░░░   69.27 %
-JavaScript   8 mins                ██████▓░░░░░░░░░░░░░░░░░░   26.69 %
-CSS          1 min                 █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
-Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+HTML         3 hrs 4 mins          ██████████████████████▓░░   91.21 %
+CSS          8 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+JavaScript   8 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
+Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
