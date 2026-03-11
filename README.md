@@ -19,15 +19,15 @@
 <p align="left"> 
 🔭 I’m currently working on:
   
-- Improving my backend skills with Java and Python through hands-on projects
+- Improving my frontend development skills with HTML and CSS during my internship and building responsive, modern web interfaces.
 
 🌱 I’m currently learning:
 
-- Spring Boot, RESTful APIs, and writing clean, maintainable code
+- Responsive web design, modern CSS techniques, and improving my backend knowledge with Java and Python.
 
 💬 Ask me about:
 
-- Java, Python, OOP, and getting started with backend development
+- HTML, CSS, Java, Python, Object-Oriented Programming (OOP), and getting started with web development.
   
  📫 How to reach me: yasin.ylmz.work@gmail.com</p>
 
