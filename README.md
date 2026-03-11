@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 Ben Yasin Yılmaz</h1>
+<h1 align="left">Hey 👋 I'm Yasin Yılmaz</h1>
 
 ###
 
-<p align="left">Yazılım geliştirme alanında sürekli kendini geliştiren, üretmeyi ve yeni teknolojiler öğrenmeyi seven lisans son sınıf öğrencisiyim.</p>
+<p align="left">I am a senior undergraduate student who continuously develops my skills in software development and enjoys building projects and learning new technologies.</p>
 
 ###
 
