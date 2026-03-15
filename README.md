@@ -90,13 +90,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 March 2026 - To: 12 March 2026
+From: 06 March 2026 - To: 13 March 2026
 
-HTML        17 hrs 55 mins        ██████████████████░░░░░░░   72.37 %
-Python      2 hrs 58 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 %
-Batchfile   1 hr 57 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
-JSON        49 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
-NSIS        28 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+HTML         15 hrs 41 mins        ███████████████░░░░░░░░░░   59.80 %
+Python       2 hrs 37 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.04 %
+Batchfile    1 hr 57 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
+JavaScript   1 hr 52 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
+JSON         1 hr 34 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
 ```
 
 <!--END_SECTION:waka-->
