@@ -90,12 +90,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 April 2026 - To: 23 April 2026
+From: 17 April 2026 - To: 24 April 2026
 
-JavaScript   10 hrs 44 mins        ███████████▓░░░░░░░░░░░░░   46.33 %
-JSON         3 hrs 39 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.77 %
-HTML         3 hrs 29 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.08 %
-Other        1 hr 37 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
+JavaScript   10 hrs 37 mins        ███████████▓░░░░░░░░░░░░░   46.54 %
+JSON         3 hrs 34 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.68 %
+HTML         3 hrs 15 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.26 %
+Other        1 hr 43 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
 ```
 
 <!--END_SECTION:waka-->
