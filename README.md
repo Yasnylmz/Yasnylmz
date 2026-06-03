@@ -90,9 +90,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 May 2026 - To: 31 May 2026
+From: 25 May 2026 - To: 01 June 2026
 
-No activity tracked
+JSON          1 hr 49 mins          █████████░░░░░░░░░░░░░░░░   35.94 %
+Python        1 hr 10 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.20 %
+TypeScript    35 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.53 %
+HTML          27 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
+JavaScript    26 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
 ```
 
 <!--END_SECTION:waka-->
