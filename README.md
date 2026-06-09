@@ -90,12 +90,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 May 2026 - To: 06 June 2026
+From: 01 June 2026 - To: 08 June 2026
 
-Python        2 hrs 43 mins         ██████░░░░░░░░░░░░░░░░░░░   24.12 %
-JSON          2 hrs 41 mins         ██████░░░░░░░░░░░░░░░░░░░   23.85 %
-INI           2 hrs 31 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.43 %
-Other         1 hr 23 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.34 %
+INI           2 hrs 31 mins         ██████████░░░░░░░░░░░░░░░   40.64 %
+Python        1 hr 37 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.12 %
+Other         1 hr 9 mins           ████▓░░░░░░░░░░░░░░░░░░░░   18.48 %
 ```
 
 <!--END_SECTION:waka-->
