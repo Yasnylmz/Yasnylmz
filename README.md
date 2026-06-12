@@ -90,11 +90,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 June 2026 - To: 10 June 2026
+From: 04 June 2026 - To: 11 June 2026
 
-JSON     45 mins               █████████████░░░░░░░░░░░░   52.06 %
-Python   28 mins               ████████░░░░░░░░░░░░░░░░░   32.60 %
-Other    12 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.97 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
